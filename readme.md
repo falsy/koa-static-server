@@ -10,3 +10,6 @@ npm install
 ```
 node index.js
 ```
+
+## 관련 블로그 글
+https://lab.falsy.me/koa-js를-이용하여-정적-서버만들기-404-경로-지정하기-in-nodejs/
