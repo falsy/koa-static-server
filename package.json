@@ -18,6 +18,7 @@
   "homepage": "https://github.com/falsy/koa-static-server#readme",
   "dependencies": {
     "koa": "^2.6.2",
+    "koa-send": "^5.0.0",
     "koa-static": "^5.0.0"
   }
 }
